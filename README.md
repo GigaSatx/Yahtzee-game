@@ -1,3 +1,3 @@
 # Yahtzee-game!
  
-(https://user-images.githubusercontent.com/90619014/177164314-48e4c8f8-4fc1-4230-a701-f47c1a5444ff.png)
+![yahtzee](https://user-images.githubusercontent.com/90619014/177164571-8565b574-0410-4045-93ca-db9835308822.png)
